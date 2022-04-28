@@ -3,5 +3,9 @@ Mustafa Kalender: 1980 Kahramanmaraş-Afşin doğumludur. Manas Üniversitesi T�
 
 
 ## Kitapları
-* ![İsimdeki Sır](/assets/images/isimdeki-sir.jpg)  [İsimdeki Sır](https://www.kitapyurdu.com/kitap/isimdeki-sir/470095.html)
-* ![Ceraim:46](/assets/images/ceraim-46.jpg)  [Ceraim:46](https://www.kitapyurdu.com/kitap/ceraim46/545368.html)
+![İsimdeki Sır](/assets/images/isimdeki-sir.jpg)  
+[İsimdeki Sır](https://www.kitapyurdu.com/kitap/isimdeki-sir/470095.html)
+
+
+![Ceraim:46](/assets/images/ceraim-46.jpg)  
+[Ceraim:46](https://www.kitapyurdu.com/kitap/ceraim46/545368.html)
